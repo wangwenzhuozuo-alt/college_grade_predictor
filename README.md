@@ -2,7 +2,7 @@
 
 A web-based grade calculator that parses any course syllabus (PDF or text) using the Gemini AI API and lets you track your scores, simulate final exam scenarios, and see exactly what grade you need to hit your target.
 
-![Grade Predictor Screenshot](wangwenzhuozuo-alt.github.io_grade_predictor_.png)
+![Grade Predictor Screenshot](screenshot.png)
 
 ## Features
 
